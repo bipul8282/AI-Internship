@@ -1,111 +1,110 @@
 export const quotes = [
-    {
-      quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-    
-    },
-    {
-      quote: "Don't watch the clock; do what it does. Keep going.",
-    
-    },
-    {
-      quote: "The only way to do great work is to love what you do.",
-      
-    },
-    {
-      quote: "Believe you can and you're halfway there.",
-    
-    },
-    {
-      quote: "The best way to predict the future is to invent it.",
-   
-    },
-    {
-      quote: "The true sign of intelligence is not knowledge but imagination.",
-     
-    },
-    {
-      quote: "Be the change that you wish to see in the world.",
-    
-    },
-    {
-      quote: "Education is the most powerful weapon which you can use to change the world.",
-     
-    },
-    {
-      quote: "Our greatest glory is not in never falling, but in rising every time we fall.",
-     
-    },
-    {
-      quote: "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-    
-    },
-    {
-      quote: "The underdog team, with pure determination, pulled off a stunning comeback victory in the final seconds of the game.",
-    
-    },
-    {
-      quote: "She shattered world records, proving that even the sky isn't the limit when you have a dream.",
-    
-    },
-    {
-      quote: "The family-owned bakery, now in its fourth generation, remains a local favorite, a testament to the power of tradition and quality.",
-    
-    },
-    {
-      quote: "The entrepreneur's risky decision paid off, turning a struggling startup into a global brand.",
-    
-    },
-    {
-      quote: "Through smart investing and disciplined saving, they achieved financial independence, enjoying their retirement to the fullest.",
-    
-    },
-    {
-      quote: "In the face of economic uncertainty, the resilient stock market continued its upward climb, defying expectations.",
-    
-    },
-    {
-      quote: "The novice investor learned the importance of diversification after a turbulent market wiped out their savings.",
-    
-    },
-    {
-      quote: "Despite market fluctuations, the seasoned trader's well-timed decisions consistently yielded impressive profits.",
-    
-    },
-    {
-      quote: "The breakthrough in AI technology promised to revolutionize healthcare, offering hope to millions of patients.",
-    
-    },
-    {
-      quote: "A simple app idea turned into a tech unicorn, showcasing the potential of the digital age.",
-    
-    },
-    {
-      quote: "Researchers discovered a new species deep in the rainforest, highlighting the importance of preserving biodiversity.",
-    
-    },
-    {
-      quote: "The mission to Mars brought humanity one step closer to becoming a multi-planetary species.",
-    
-    },
-    {
-      quote: "The new vaccine rollout marked a turning point in the fight against a global pandemic, saving countless lives.",
-    
-    },
-    {
-      quote: "A groundbreaking surgery gave a young patient a chance at a normal life, inspiring medical advancements.",
-    
-    },
-    {
-      quote: "The dedicated teacher's innovative teaching methods transformed a struggling school into a model of success.",
-    
-    },
-    {
-      quote: "Online learning platforms provided access to education for underserved communities, bridging the digital divide.",
-    
-    },
-    {
-      quote: " A small coastal town rallied together to clean up their beach, showcasing the power of community action.",
-    
-    }
-  ];
-  
+  {
+    quote: "When Emma received a magical compass, it always pointed to the place she most needed to be. She followed its guidance, leading her on incredible adventures and life-changing encounters.",
+
+  },
+  {
+    quote: "In a small town, fireflies danced in intricate patterns at night. Lily discovered their secret language and used it to send messages of hope and love to her family and friends.",
+
+  },
+  {
+    quote: "Max stumbled upon a café that transported him to different time periods when he took a sip of its special coffee. He shared coffee and stories with historical figures, learning about their lives.",
+
+  },
+  {
+    quote: "A forgotten piano in an abandoned house held the memories of its past owners. Lucy restored the piano and brought its beautiful music and stories back to life.",
+
+  },
+  {
+    quote: "Sam found an ancient brush that allowed him to paint the sky. He created breathtaking sunsets and rainbows, sharing his art with people worldwide and spreading joy.",
+
+  },
+  {
+    quote: "Emily entered a hidden library where all the forgotten words lived. She discovered their stories and helped them find their way back into the hearts and minds of people.",
+
+  },
+  {
+    quote: "Mia collected fallen stars, each holding a unique power. She used these powers to make her dreams come true and brighten the lives of those around her.",
+
+  },
+  {
+    quote: "On a rainy day, Tommy found an umbrella that could transport him anywhere he wished. He explored new worlds, helped others, and learned valuable life lessons.",
+
+  },
+  {
+    quote: "A lighthouse on a cliff guided ships safely to shore, but it also had the power to grant wishes to those who truly needed them. Sarah's wish changed her life forever.",
+
+  },
+  {
+    quote: "In a secluded meadow, the wind whispered secrets of the universe to Hannah. She listened closely, gaining wisdom and discovering her purpose in the grand scheme of things.",
+
+  },
+  {
+    quote: "A river flowed through a forest, carrying dreams of the past and future. Maya set sail on a boat made of moonlight, navigating the river to explore her own dreams and those of others.",
+
+  },
+  {
+    quote: "In an old bookstore, Sofia found a puzzle that, when solved, transported her to different historical periods. She used this unique ability to witness history's greatest moments.",
+
+  },
+  {
+    quote: "Jack discovered an ancient map that revealed the locations of fallen stars. He embarked on a journey to collect them, discovering that each star held a wish from someone in need.",
+
+  },
+  {
+    quote: "Mark found a magical pen that could bring his stories to life. He embarked on thrilling adventures with his own characters, learning that imagination could change the world.",
+
+  },
+  {
+    quote: "Lily stumbled upon a hidden garden filled with extraordinary plants. Each flower possessed unique powers, and with their help, she transformed her dreary neighborhood into a vibrant oasis.",
+
+  },
+  {
+    quote: "On the outskirts of town, there was a carousel that only operated under the light of the full moon. Sarah and her friends embarked on nighttime adventures aboard the enchanted carousel.",
+
+  },
+  {
+    quote: "Under a centuries-old willow tree, children could hear whispers of wisdom from the past. Mia visited the tree regularly, learning valuable life lessons and sharing them with her friends.",
+
+  },
+  {
+    quote: "In an ancient art gallery, the paintings came to life at night. A young artist named Sofia entered this magical world, where she painted her own stories on the canvas and became a part of the living artwork.",
+
+  },
+  {
+    quote: "A mysterious pocket watch allowed William to travel through time. He used it to witness historical events firsthand and even changed the course of history with his knowledge of the future.",
+
+  },
+  {
+    quote: "In a forest where the leaves sang in the wind, a young girl named Eliza discovered a hidden talent for whistling. She used her unique skill to communicate with the forest's creatures and uncover its secrets.",
+
+  },
+  {
+    quote: "Emily discovered a pair of worn-out dancing shoes in her grandmother's attic. When she put them on, she was transported to a glamorous ballroom where she danced with historical figures and learned about the past.",
+
+  },
+  {
+    quote: "Maya inherited an old cookbook that contained magical recipes. Each dish she cooked transported her to different eras and places, allowing her to experience history and culture through food.",
+
+  },
+  {
+    quote: "Every night, a guardian visited a young boy named Max in his dreams, guiding him through whimsical dreamscapes. Max learned that dreams held the power to inspire and shape his reality.",
+
+  },
+  {
+    quote: "When Timmy picked up a peculiar umbrella during a rainstorm, it whisked him away to a fantastical realm above the clouds. With the help of newfound friends, he embarked on an adventure in the sky.",
+
+  },
+  {
+    quote: "Sarah received an antique mirror as a gift but soon realized it was cursed. As she delved into its history, she encountered others who had fallen under its spell and set out to break the curse once and for all.",
+
+  },
+  {
+    quote: "When Jake found a mysterious key in his grandfather's attic, it unlocked a hidden door that led to a forgotten world. There, he met peculiar creatures and uncovered the key to his own family's history.",
+
+  },
+  {
+    quote: "On a remote island, a magical lighthouse protected sailors from treacherous storms. Emma, the lighthouse keeper, discovered its ancient guardians and became their friend, ensuring safe voyages for generations.",
+
+  }
+];
